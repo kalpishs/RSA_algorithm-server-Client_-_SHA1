@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
 -> run server with executable file normally.
 
--> client contains 2 argument 1) local host address i.e 127.0.0.1
+-> client contains 2 argument 
+			      1) local host address i.e 127.0.0.1
 
 			      2) file name to be found in server 
 #Assumptions:-
