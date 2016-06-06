@@ -6,7 +6,7 @@ Kalpish Singhal
 ____________________________________________________________________________________________________________________________________________
 
 ==============================================================================================================================
- 			#Implemented RSA with SHA-1 Hash for a client server architecture in C
+#Implemented RSA with SHA-1 Hash for a client server architecture in C
 ==============================================================================================================================
 -> Implemented RSA with client server architecture to send a file requested by client.
 
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 -> Secure comunication is conducted b/w client and server using assymetric key cryptography.
 
 ==============================================================================================================================
- 					#Compilation and running 
+#Compilation and running 
 ==============================================================================================================================
 -> Compiling client and server we need to comlie using -lm and -lcrypto eg."gcc client.c -lm -lcrypto" to have math and crptography
 
