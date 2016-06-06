@@ -21,9 +21,9 @@ ________________________________________________________________________________
 
    libray compilation for sqrt and SHA1 functions respectively.
 
-	i) gcc 201505513_assign_1_client.c -lm -lcrypto
+	i) gcc client.c -lm -lcrypto
 
-	ii)gcc 201505513_assign_1_server.c -lm -lcrypto
+	ii)gcc server.c -lm -lcrypto
 
 -> run server with executable file normally.
 
@@ -35,4 +35,6 @@ ________________________________________________________________________________
 	i) client is always given 2 arguments mentioned above
 
 	ii) file to be found at server side is present in current directory 
+	
+	iii) Server and client programs are in different directory to avoid overwriting 
 
